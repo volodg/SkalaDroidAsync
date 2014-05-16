@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <database name="JFF_THUMBNAIL_DB">
+        <fileName>wdCachedImages/WDThumbnails.sqlite</fileName>
+        <version>0</version>
+        <timeToLiveInHours>168</timeToLiveInHours>
+        <autoRemove>
+            <lastAccessDateInHours>320</lastAccessDateInHours>
+            <lastAccessDateInHours>100</lastAccessDateInHours>
+        </autoRemove>
+    </database>
+</resources>
